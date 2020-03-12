@@ -1,0 +1,16 @@
+{
+    "remote_ssh_server": "",
+    "remote_ssh_port": ,
+    "remote_ssh_user": "",
+    "remote_ssh_key": "",
+    "remote_db_host": "",
+    "remote_db": "",
+    "remote_db_user": "",
+    "remote_db_pwd": "",
+    "local_db_host": "",
+    "local_db_user": "",
+    "local_db_pwd": "",
+    "local_db": "",
+    "dump_folder": "",
+    "encoded_dump_pwd": ""
+}
