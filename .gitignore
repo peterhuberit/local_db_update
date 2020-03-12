@@ -1,5 +1,6 @@
 *__py*
-config/cnf.json
+config/*
 !config/cnf.json.DIST
+lists/*
 !lists/list.yml.DIST
 dump/*
