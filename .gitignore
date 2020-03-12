@@ -1,3 +1,5 @@
 *__py*
-config/db.json
+config/cnf.json
+!config/cnf.json.DIST
+!lists/list.yml.DIST
 dump/*
