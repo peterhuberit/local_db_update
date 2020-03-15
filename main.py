@@ -34,7 +34,7 @@ def main():
     option_cnt      = print_list()
     selected_option = select_list(option_cnt)
     start           = timeit.default_timer()
-    with open(os.path.join('/home/ghi/repos/_github/database_update/config','cnf.json'), 'r') as data:
+    with open(os.path.join('config','cnf.json'), 'r') as data:
         print(data)
         cnf = json.load(data)
 
