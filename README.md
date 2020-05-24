@@ -1,4 +1,4 @@
-Update tables in local mysql database from a remote one with encrypted dump through ssh tunnel.
+# Update tables in local mysql database from a remote one with encrypted dump through ssh tunnel.
 
 Usage:
 - create a file on the remote server in your home folder which contains the credentials for the dump encryption:
